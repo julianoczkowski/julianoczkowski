@@ -4,9 +4,9 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel to more than 600k subscribers.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://youtube.com/@UCyINfm_N5v8OrxOxYlRfMwA) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:julianreddot@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://youtube.com/@jules-ai-lab) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:julianreddot@gmail.com)
 
-<p align="left" style="border: 2px solid #666;">
+#
 
 ### Latest YouTube Videos
 
@@ -29,7 +29,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 <!-- END YOUTUBE-CARDS -->
 
-<p align="left" style="border: 2px solid #666;">
+#
 
 ### Design Tools
 
