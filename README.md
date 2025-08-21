@@ -1,8 +1,10 @@
-# Julian Oczkowski
+# Hey, I’m Julian 👋
 
 **`Lead Product Designer (Citizen Developer / Designer)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel to more than 600k subscribers.
+I build, design, and ship digital products — fast.  
+End-to-end problem solving is my thing: UX, design systems, full-stack code, deployments.  
+On YouTube (3+ subs), I share how to turn ideas into working products without the fluff.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://youtube.com/@jules-ai-lab) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:julianreddot@gmail.com)
 
