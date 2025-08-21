@@ -6,6 +6,8 @@ I'm an indie full-stack developer and content creator building my version of the
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://youtube.com/@UCyINfm_N5v8OrxOxYlRfMwA) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:julianreddot@gmail.com)
 
+<p align="left" style="border: 2px solid #666;">
+
 ### Latest YouTube Videos
 
    <p align="left">
@@ -17,15 +19,17 @@ I'm an indie full-stack developer and content creator building my version of the
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![💥 GPT-5 Just Dropped – Building Full Apps in MINUTES](https://ytcards.demolab.com/?id=uQP1crcxs0s&title=%F0%9F%92%A5+GPT-5+Just+Dropped+%E2%80%93+Building+Full+Apps+in+MINUTES&lang=en&timestamp=1754595869&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "💥 GPT-5 Just Dropped – Building Full Apps in MINUTES")](https://www.youtube.com/watch?v=uQP1crcxs0s)
 [![💥 GPT-5 ? No but still amazing!](https://ytcards.demolab.com/?id=E5nn1lGnsho&title=%F0%9F%92%A5+GPT-5+%3F+No+but+still+amazing%21&lang=en&timestamp=1754219025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "💥 GPT-5 ? No but still amazing!")](https://www.youtube.com/watch?v=E5nn1lGnsho)
 [![No‑Fluff Guide: Vibe Coding Episode 3 | GitHub Setup](https://ytcards.demolab.com/?id=EGAwSfQJ0qg&title=No%E2%80%91Fluff+Guide%3A+Vibe+Coding+Episode+3+%7C+GitHub+Setup&lang=en&timestamp=1754138916&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "No‑Fluff Guide: Vibe Coding Episode 3 | GitHub Setup")](https://www.youtube.com/watch?v=EGAwSfQJ0qg)
 [![No‑Fluff Guide: Vibe Coding Episode 2 | Cursor Setup](https://ytcards.demolab.com/?id=aG7Eu7SkKZA&title=No%E2%80%91Fluff+Guide%3A+Vibe+Coding+Episode+2+%7C+Cursor+Setup&lang=en&timestamp=1753035378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "No‑Fluff Guide: Vibe Coding Episode 2 | Cursor Setup")](https://www.youtube.com/watch?v=aG7Eu7SkKZA)
 [![No‑Fluff Guide: Vibe Coding Episode 1 | One‑Click Setup](https://ytcards.demolab.com/?id=PFmPf7WBe-s&title=No%E2%80%91Fluff+Guide%3A+Vibe+Coding+Episode+1+%7C+One%E2%80%91Click+Setup&lang=en&timestamp=1752957529&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "No‑Fluff Guide: Vibe Coding Episode 1 | One‑Click Setup")](https://www.youtube.com/watch?v=PFmPf7WBe-s)
 [![Meet Kiro! 👻  Amazing Coding Assistant](https://ytcards.demolab.com/?id=RpsM4QV0fWs&title=Meet+Kiro%21+%F0%9F%91%BB++Amazing+Coding+Assistant&lang=en&timestamp=1752704426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Meet Kiro! 👻  Amazing Coding Assistant")](https://www.youtube.com/watch?v=RpsM4QV0fWs)
+
 <!-- END YOUTUBE-CARDS -->
 
----
+<p align="left" style="border: 2px solid #666;">
 
 ### Design Tools
 
