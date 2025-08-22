@@ -3,8 +3,6 @@
   <img src="assets/ux_code_ascii_banner_transparent.gif" alt="UX + CODE — ASCII banner" width="100%" />
 </p>
 
----
-
 <br>
 
 # Hey, I’m Julian 👋
