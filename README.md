@@ -1,10 +1,23 @@
-# Hey, I’m Julian 👋
+<!-- 🔥 Hero Banner -->
+<p align="left">
+  <img src="assets/ux_code_ascii_banner_transparent.gif" alt="UX + CODE — ASCII banner" width="100%" />
+</p>
 
-**`Lead Product Designer (Citizen Developer / Designer)`**
+---
 
-I build, design, and ship digital products — fast.  
-End-to-end problem solving is my thing: UX, design systems, code, deployments and user validation.  
-On YouTube (3+ subs), I share how to turn ideas into working products without the fluff.
+<br>
+<div align="left" style="font-size: 2em; font-weight: bold;">
+  Hey, I’m Julian 👋
+</div>
+<br>
+
+**`Lead Product Designer bridging UX & Code`**
+
+🎥 **Content Creator** — 3k+ YouTube subscribers, 50k+ views on AI, design systems, and coding workflows.  
+👨‍💻 **Contributor** — 1,500+ commits in the past year across design-to-code tools and UI frameworks.  
+🚀 **Builder** — Created AI-driven workflows that turn Figma layouts into working code with shadcn/ui + Storybook.  
+🧩 **Design Systems Expert** — Experienced in UX, scalable design tokens, and component libraries.  
+🌍 **Cross-Disciplinary** — Bridging UX & Code to ship fast, user-centered digital products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://youtube.com/@jules-ai-lab) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:julianreddot@gmail.com)
 
@@ -21,12 +34,14 @@ On YouTube (3+ subs), I share how to turn ideas into working products without th
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![💥 GPT-5 Just Dropped – Building Full Apps in MINUTES](https://ytcards.demolab.com/?id=uQP1crcxs0s&title=%F0%9F%92%A5+GPT-5+Just+Dropped+%E2%80%93+Building+Full+Apps+in+MINUTES&lang=en&timestamp=1754595869&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "💥 GPT-5 Just Dropped – Building Full Apps in MINUTES")](https://www.youtube.com/watch?v=uQP1crcxs0s)
 [![💥 GPT-5 ? No but still amazing!](https://ytcards.demolab.com/?id=E5nn1lGnsho&title=%F0%9F%92%A5+GPT-5+%3F+No+but+still+amazing%21&lang=en&timestamp=1754219025&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "💥 GPT-5 ? No but still amazing!")](https://www.youtube.com/watch?v=E5nn1lGnsho)
 [![No‑Fluff Guide: Vibe Coding Episode 3 | GitHub Setup](https://ytcards.demolab.com/?id=EGAwSfQJ0qg&title=No%E2%80%91Fluff+Guide%3A+Vibe+Coding+Episode+3+%7C+GitHub+Setup&lang=en&timestamp=1754138916&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "No‑Fluff Guide: Vibe Coding Episode 3 | GitHub Setup")](https://www.youtube.com/watch?v=EGAwSfQJ0qg)
 [![No‑Fluff Guide: Vibe Coding Episode 2 | Cursor Setup](https://ytcards.demolab.com/?id=aG7Eu7SkKZA&title=No%E2%80%91Fluff+Guide%3A+Vibe+Coding+Episode+2+%7C+Cursor+Setup&lang=en&timestamp=1753035378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "No‑Fluff Guide: Vibe Coding Episode 2 | Cursor Setup")](https://www.youtube.com/watch?v=aG7Eu7SkKZA)
 [![No‑Fluff Guide: Vibe Coding Episode 1 | One‑Click Setup](https://ytcards.demolab.com/?id=PFmPf7WBe-s&title=No%E2%80%91Fluff+Guide%3A+Vibe+Coding+Episode+1+%7C+One%E2%80%91Click+Setup&lang=en&timestamp=1752957529&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "No‑Fluff Guide: Vibe Coding Episode 1 | One‑Click Setup")](https://www.youtube.com/watch?v=PFmPf7WBe-s)
 [![Meet Kiro! 👻  Amazing Coding Assistant](https://ytcards.demolab.com/?id=RpsM4QV0fWs&title=Meet+Kiro%21+%F0%9F%91%BB++Amazing+Coding+Assistant&lang=en&timestamp=1752704426&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Meet Kiro! 👻  Amazing Coding Assistant")](https://www.youtube.com/watch?v=RpsM4QV0fWs)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
