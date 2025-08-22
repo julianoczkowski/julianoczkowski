@@ -6,7 +6,7 @@
 ---
 
 <br>
-<div align="left" style="font-size: 2em; font-weight: bold;">
+<div align="left" style="font-size: 6em; font-weight: bold;">
   Hey, I’m Julian 👋
 </div>
 <br>
