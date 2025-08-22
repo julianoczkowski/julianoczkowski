@@ -6,10 +6,8 @@
 ---
 
 <br>
-<div align="left" style="font-size: 6em; font-weight: bold;">
-  Hey, I’m Julian 👋
-</div>
-<br>
+
+# Hey, I’m Julian 👋
 
 **`Lead Product Designer bridging UX & Code`**
 
