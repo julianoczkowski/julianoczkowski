@@ -16,7 +16,6 @@ $$    $$/ $$ |  $$ |         $$/          $$    $$/ $$    $$/ $$    $$/ $$      
 
 **`Lead Product Designer bridging UX & Code`**
 
-🎥 **Content Creator** — 3k+ YouTube subscribers, 50k+ views on AI, design systems, and coding workflows.  
 👨‍💻 **Contributor** — 1,500+ commits in the past year across design-to-code tools and UI frameworks.  
 🚀 **Builder** — Created AI-driven workflows that turn Figma layouts into working code with shadcn/ui + Storybook.  
 🧩 **Design Systems Expert** — Experienced in UX, scalable design tokens, and component libraries.  
