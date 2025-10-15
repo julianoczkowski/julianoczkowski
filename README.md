@@ -12,7 +12,7 @@ $$    $$/ $$ |  $$ |         $$/          $$    $$/ $$    $$/ $$    $$/ $$      
 
 <br>
 
-# Hey, I’m Julian 👋
+# Hey, I’m Julian
 
 **`Lead Product Designer bridging UX & Code`**
 
