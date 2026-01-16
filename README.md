@@ -1,6 +1,3 @@
-```
-
-
 # Hey, I’m Julian
 
 **`Lead Product Designer bridging UX & Code`**
