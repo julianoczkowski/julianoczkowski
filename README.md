@@ -41,6 +41,8 @@
 ![Cursor](https://img.shields.io/badge/Cursor-%23121011.svg?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/vscode-%23121011.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Kiro](https://img.shields.io/badge/kiro-%23121011.svg?style=for-the-badge&logo=kiro&logoColor=white)
+![Claude Code](https://img.shields.io/badge/claude_code-%23121011.svg?style=for-the-badge&logo=claude_code&logoColor=white)
+![Codex](https://img.shields.io/badge/codex-%23121011.svg?style=for-the-badge&logo=codex&logoColor=white)
 
 ### APIs
 
