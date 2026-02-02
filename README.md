@@ -7,7 +7,7 @@
 🧩 **Design Systems Expert** — Experienced in UX, scalable design tokens, and component libraries.  
 🌍 **Cross-Disciplinary** — Bridging UX & Code to ship fast, user-centered digital products.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://youtube.com/@jules-ai-lab) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:julianreddot@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://www.youtube.com/@aiforwork_app) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:julianreddot@gmail.com)
 
 #
 
