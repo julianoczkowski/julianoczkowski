@@ -2,9 +2,9 @@
 
 **`Lead Product Designer bridging UX & Code`**
 
-👨‍💻 **Contributor** — 1,500+ commits in the past year across design-to-code tools and UI frameworks.  
+👨‍💻 **Contributor** — 2,000+ commits in the past year across design-to-code tools and UI frameworks.  
 🚀 **Builder** — Created AI-driven workflows that turn Figma layouts into working code with shadcn/ui + Storybook.  
-🧩 **Design Systems Expert** — Experienced in UX, scalable design tokens, and component libraries.  
+🧩 **Design Systems Guy** — Experienced in UX, scalable design tokens, and component libraries.  
 🌍 **Cross-Disciplinary** — Bridging UX & Code to ship fast, user-centered digital products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://www.youtube.com/@aiforwork_app) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:julianreddot@gmail.com)
