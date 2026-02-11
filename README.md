@@ -66,7 +66,7 @@
 
 ### Stats
 
-<!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoczkowski&show_icons=true&theme=gruvbox) -->
+![My GitHub Contribution Game](assets/game.gif)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=julianoczkowski&theme=gruvbox-duo&border_radius=8&mode=weekly&starting_year=2024&card_width=600)](https://git.io/streak-stats)
 
