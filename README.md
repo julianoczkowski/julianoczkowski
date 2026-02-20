@@ -22,12 +22,7 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![I Tested Sonnet 4.6 vs Opus 4.6: One Was Way Better](https://ytcards.demolab.com/?id=5d3exc78cjk&title=I+Tested+Sonnet+4.6+vs+Opus+4.6%3A+One+Was+Way+Better&lang=en&timestamp=1771410656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested Sonnet 4.6 vs Opus 4.6: One Was Way Better")](https://www.youtube.com/watch?v=5d3exc78cjk)
-[![Claude Code - Are You Using It Wrong?](https://ytcards.demolab.com/?id=ALXot6Pam14&title=Claude+Code+-+Are+You+Using+It+Wrong%3F&lang=en&timestamp=1770588409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code - Are You Using It Wrong?")](https://www.youtube.com/watch?v=ALXot6Pam14)
-[![Are We Cooked? 🤖 #ai](https://ytcards.demolab.com/?id=JmWPAJmjmxw&title=Are+We+Cooked%3F+%F0%9F%A4%96+%23ai&lang=en&timestamp=1770359687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Are We Cooked? 🤖 #ai")](https://www.youtube.com/shorts/JmWPAJmjmxw)
-[![I Tested Claude Opus 4.6 😬 Designers Aren’t Ready for THIS](https://ytcards.demolab.com/?id=vL-8aEHtviE&title=I+Tested+Claude+Opus+4.6+%F0%9F%98%AC+Designers+Aren%E2%80%99t+Ready+for+THIS&lang=en&timestamp=1770324322&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested Claude Opus 4.6 😬 Designers Aren’t Ready for THIS")](https://www.youtube.com/watch?v=vL-8aEHtviE)
-[![Next-Gen 3D AI: How Meta’s SAM 3D Creates 3D Models from 2D Pics](https://ytcards.demolab.com/?id=8oD-s6PYLIY&title=Next-Gen+3D+AI%3A+How+Meta%E2%80%99s+SAM+3D+Creates+3D+Models+from+2D+Pics&lang=en&timestamp=1767448356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Next-Gen 3D AI: How Meta’s SAM 3D Creates 3D Models from 2D Pics")](https://www.youtube.com/watch?v=8oD-s6PYLIY)
-[![💥 GPT-5 Just Dropped – Building Full Apps in MINUTES](https://ytcards.demolab.com/?id=uQP1crcxs0s&title=%F0%9F%92%A5+GPT-5+Just+Dropped+%E2%80%93+Building+Full+Apps+in+MINUTES&lang=en&timestamp=1754595869&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "💥 GPT-5 Just Dropped – Building Full Apps in MINUTES")](https://www.youtube.com/watch?v=uQP1crcxs0s)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
