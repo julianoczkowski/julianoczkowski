@@ -22,7 +22,12 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![My Gemini 3.1 Pro stress test: live reaction #ai #aidesign](https://ytcards.demolab.com/?id=Tyj3-NS9xPA&title=My+Gemini+3.1+Pro+stress+test%3A+live+reaction+%23ai+%23aidesign&lang=en&timestamp=1771875505&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "My Gemini 3.1 Pro stress test: live reaction #ai #aidesign")](https://www.youtube.com/shorts/Tyj3-NS9xPA)
+[![Claude Code Desktop Did My Whole Dev Workflow](https://ytcards.demolab.com/?id=c2Yusa1aIP4&title=Claude+Code+Desktop+Did+My+Whole+Dev+Workflow&lang=en&timestamp=1771697740&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code Desktop Did My Whole Dev Workflow")](https://www.youtube.com/watch?v=c2Yusa1aIP4)
+[![I Tested Every Visual Claim Google Made About Gemini 3.1 Pro](https://ytcards.demolab.com/?id=t5mgYmM5bdA&title=I+Tested+Every+Visual+Claim+Google+Made+About+Gemini+3.1+Pro&lang=en&timestamp=1771581374&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested Every Visual Claim Google Made About Gemini 3.1 Pro")](https://www.youtube.com/watch?v=t5mgYmM5bdA)
+[![I Tested Sonnet 4.6 vs Opus 4.6: One Was Way Better](https://ytcards.demolab.com/?id=5d3exc78cjk&title=I+Tested+Sonnet+4.6+vs+Opus+4.6%3A+One+Was+Way+Better&lang=en&timestamp=1771410656&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested Sonnet 4.6 vs Opus 4.6: One Was Way Better")](https://www.youtube.com/watch?v=5d3exc78cjk)
+[![Claude Code - Are You Using It Wrong?](https://ytcards.demolab.com/?id=ALXot6Pam14&title=Claude+Code+-+Are+You+Using+It+Wrong%3F&lang=en&timestamp=1770588409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code - Are You Using It Wrong?")](https://www.youtube.com/watch?v=ALXot6Pam14)
+[![Are We Cooked? 🤖 #ai](https://ytcards.demolab.com/?id=JmWPAJmjmxw&title=Are+We+Cooked%3F+%F0%9F%A4%96+%23ai&lang=en&timestamp=1770359687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Are We Cooked? 🤖 #ai")](https://www.youtube.com/shorts/JmWPAJmjmxw)
 <!-- END YOUTUBE-CARDS -->
 
 #
