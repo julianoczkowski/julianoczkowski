@@ -22,12 +22,7 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![GPT-5.4 Tested. The Leaks Were Wrong.](https://ytcards.demolab.com/?id=TevBv35BoT8&title=GPT-5.4+Tested.+The+Leaks+Were+Wrong.&lang=en&timestamp=1772742300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GPT-5.4 Tested. The Leaks Were Wrong.")](https://www.youtube.com/watch?v=TevBv35BoT8)
-[![Codex App for Windows is Here!  #ai  #chatgpt  #coding](https://ytcards.demolab.com/?id=9Rg6_BSdKbg&title=Codex+App+for+Windows+is+Here%21++%23ai++%23chatgpt++%23coding&lang=en&timestamp=1772649892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Codex App for Windows is Here!  #ai  #chatgpt  #coding")](https://www.youtube.com/shorts/9Rg6_BSdKbg)
-[![Dorsey Didn't Fire Bad Employees](https://ytcards.demolab.com/?id=DllcWdQ3Zjw&title=Dorsey+Didn%27t+Fire+Bad+Employees&lang=en&timestamp=1772566230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dorsey Didn't Fire Bad Employees")](https://www.youtube.com/shorts/DllcWdQ3Zjw)
-[![Dorsey Just Fired 4,000 People](https://ytcards.demolab.com/?id=pJZa9IV-K1M&title=Dorsey+Just+Fired+4%2C000+People&lang=en&timestamp=1772469404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dorsey Just Fired 4,000 People")](https://www.youtube.com/watch?v=pJZa9IV-K1M)
-[![30 files at once? NotebookLM's new trick is wild #notebooklm #tutorial #workflow](https://ytcards.demolab.com/?id=XuBHJ03ne0o&title=30+files+at+once%3F+NotebookLM%27s+new+trick+is+wild+%23notebooklm+%23tutorial+%23workflow&lang=en&timestamp=1772352000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "30 files at once? NotebookLM's new trick is wild #notebooklm #tutorial #workflow")](https://www.youtube.com/shorts/XuBHJ03ne0o)
-[![This AI Added the Details Nobody Else Does #musicapp #design](https://ytcards.demolab.com/?id=AK-G7gvaA-4&title=This+AI+Added+the+Details+Nobody+Else+Does+%23musicapp+%23design&lang=en&timestamp=1772275574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "This AI Added the Details Nobody Else Does #musicapp #design")](https://www.youtube.com/shorts/AK-G7gvaA-4)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
