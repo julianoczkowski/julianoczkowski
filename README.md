@@ -22,12 +22,12 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Minecraft game build by Opus and GPT 5.4 #chatgpt #ai #shorts](https://ytcards.demolab.com/?id=g2kL8PkOXGg&title=Minecraft+game+build+by+Opus+and+GPT+5.4+%23chatgpt+%23ai+%23shorts&lang=en&timestamp=1772812800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Minecraft game build by Opus and GPT 5.4 #chatgpt #ai #shorts")](https://www.youtube.com/shorts/g2kL8PkOXGg)
 [![GPT 5.4 taking over! #chatgpt #ai](https://ytcards.demolab.com/?id=WZsXMQONwGo&title=GPT+5.4+taking+over%21+%23chatgpt+%23ai&lang=en&timestamp=1772796165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GPT 5.4 taking over! #chatgpt #ai")](https://www.youtube.com/shorts/WZsXMQONwGo)
 [![Opus 4.6 vs GPT-5.4 Built Minecraft](https://ytcards.demolab.com/?id=f6FsX0jrX2w&title=Opus+4.6+vs+GPT-5.4+Built+Minecraft&lang=en&timestamp=1772795954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Opus 4.6 vs GPT-5.4 Built Minecraft")](https://www.youtube.com/watch?v=f6FsX0jrX2w)
 [![GPT-5.4 Tested. The Leaks Were Wrong.](https://ytcards.demolab.com/?id=TevBv35BoT8&title=GPT-5.4+Tested.+The+Leaks+Were+Wrong.&lang=en&timestamp=1772742300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GPT-5.4 Tested. The Leaks Were Wrong.")](https://www.youtube.com/watch?v=TevBv35BoT8)
 [![Codex App for Windows is Here!  #ai  #chatgpt  #coding](https://ytcards.demolab.com/?id=9Rg6_BSdKbg&title=Codex+App+for+Windows+is+Here%21++%23ai++%23chatgpt++%23coding&lang=en&timestamp=1772649892&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Codex App for Windows is Here!  #ai  #chatgpt  #coding")](https://www.youtube.com/shorts/9Rg6_BSdKbg)
 [![Dorsey Didn't Fire Bad Employees](https://ytcards.demolab.com/?id=DllcWdQ3Zjw&title=Dorsey+Didn%27t+Fire+Bad+Employees&lang=en&timestamp=1772566230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dorsey Didn't Fire Bad Employees")](https://www.youtube.com/shorts/DllcWdQ3Zjw)
-[![Dorsey Just Fired 4,000 People](https://ytcards.demolab.com/?id=pJZa9IV-K1M&title=Dorsey+Just+Fired+4%2C000+People&lang=en&timestamp=1772469404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dorsey Just Fired 4,000 People")](https://www.youtube.com/watch?v=pJZa9IV-K1M)
 <!-- END YOUTUBE-CARDS -->
 
 #
