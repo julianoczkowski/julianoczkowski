@@ -22,7 +22,12 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Google Stitch vs Figma. It's Over 💀](https://ytcards.demolab.com/?id=4sMbHb35U-s&title=Google+Stitch+vs+Figma.+It%27s+Over+%F0%9F%92%80&lang=en&timestamp=1773876080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Google Stitch vs Figma. It's Over 💀")](https://www.youtube.com/watch?v=4sMbHb35U-s)
+[![Minecraft terraforming using AI #chatgpt #ai #shorts](https://ytcards.demolab.com/?id=zGny7VxKWEg&title=Minecraft+terraforming+using+AI+%23chatgpt+%23ai+%23shorts&lang=en&timestamp=1772899200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Minecraft terraforming using AI #chatgpt #ai #shorts")](https://www.youtube.com/shorts/zGny7VxKWEg)
+[![GPT 5.4 vs Claude competition.](https://ytcards.demolab.com/?id=oXpizlaZ2jg&title=GPT+5.4+vs+Claude+competition.&lang=en&timestamp=1772888400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GPT 5.4 vs Claude competition.")](https://www.youtube.com/shorts/oXpizlaZ2jg)
+[![Minecraft game build by Opus and GPT 5.4 #chatgpt #ai #shorts](https://ytcards.demolab.com/?id=g2kL8PkOXGg&title=Minecraft+game+build+by+Opus+and+GPT+5.4+%23chatgpt+%23ai+%23shorts&lang=en&timestamp=1772812800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Minecraft game build by Opus and GPT 5.4 #chatgpt #ai #shorts")](https://www.youtube.com/shorts/g2kL8PkOXGg)
+[![GPT 5.4 taking over! #chatgpt #ai](https://ytcards.demolab.com/?id=WZsXMQONwGo&title=GPT+5.4+taking+over%21+%23chatgpt+%23ai&lang=en&timestamp=1772796165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GPT 5.4 taking over! #chatgpt #ai")](https://www.youtube.com/shorts/WZsXMQONwGo)
+[![Opus 4.6 vs GPT-5.4 Built Minecraft. Who Won?](https://ytcards.demolab.com/?id=f6FsX0jrX2w&title=Opus+4.6+vs+GPT-5.4+Built+Minecraft.+Who+Won%3F&lang=en&timestamp=1772795954&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Opus 4.6 vs GPT-5.4 Built Minecraft. Who Won?")](https://www.youtube.com/watch?v=f6FsX0jrX2w)
 <!-- END YOUTUBE-CARDS -->
 
 #
