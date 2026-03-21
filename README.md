@@ -22,7 +22,12 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Have you used Google Stitch? #design](https://ytcards.demolab.com/?id=4dhWRLI2_Ks&title=Have+you+used+Google+Stitch%3F+%23design&lang=en&timestamp=1774041721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Have you used Google Stitch? #design")](https://www.youtube.com/shorts/4dhWRLI2_Ks)
+[![Instant Prototype #ai #coding](https://ytcards.demolab.com/?id=xBWMnAxAl_Y&title=Instant+Prototype+%23ai+%23coding&lang=en&timestamp=1773995837&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Instant Prototype #ai #coding")](https://www.youtube.com/shorts/xBWMnAxAl_Y)
+[![I Tested Cursor's New Model Composer 2](https://ytcards.demolab.com/?id=OlGvHQzSHl0&title=I+Tested+Cursor%27s+New+Model+Composer+2&lang=en&timestamp=1773961521&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested Cursor's New Model Composer 2")](https://www.youtube.com/watch?v=OlGvHQzSHl0)
+[![Google Stitch 2. Voice Design agent designing for me. #googlestitch #ai #short](https://ytcards.demolab.com/?id=h1iFkBUdFno&title=Google+Stitch+2.+Voice+Design+agent+designing+for+me.+%23googlestitch+%23ai+%23short&lang=en&timestamp=1773916041&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Google Stitch 2. Voice Design agent designing for me. #googlestitch #ai #short")](https://www.youtube.com/shorts/h1iFkBUdFno)
+[![Google Stitch vs Figma. It's Over 💀](https://ytcards.demolab.com/?id=4sMbHb35U-s&title=Google+Stitch+vs+Figma.+It%27s+Over+%F0%9F%92%80&lang=en&timestamp=1773876080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Google Stitch vs Figma. It's Over 💀")](https://www.youtube.com/watch?v=4sMbHb35U-s)
+[![Minecraft terraforming using AI #chatgpt #ai #shorts](https://ytcards.demolab.com/?id=zGny7VxKWEg&title=Minecraft+terraforming+using+AI+%23chatgpt+%23ai+%23shorts&lang=en&timestamp=1772899200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Minecraft terraforming using AI #chatgpt #ai #shorts")](https://www.youtube.com/shorts/zGny7VxKWEg)
 <!-- END YOUTUBE-CARDS -->
 
 #
