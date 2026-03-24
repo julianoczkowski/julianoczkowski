@@ -22,7 +22,12 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![What a fail 😞 Stitch vs Figma #figma](https://ytcards.demolab.com/?id=WXOrAr5flcU&title=What+a+fail+%F0%9F%98%9E+Stitch+vs+Figma+%23figma&lang=en&timestamp=1774270911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What a fail 😞 Stitch vs Figma #figma")](https://www.youtube.com/shorts/WXOrAr5flcU)
+[![Stitch vs Figma: Build and Deploy Test](https://ytcards.demolab.com/?id=0kwy-4jtcZo&title=Stitch+vs+Figma%3A+Build+and+Deploy+Test&lang=en&timestamp=1774213167&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stitch vs Figma: Build and Deploy Test")](https://www.youtube.com/watch?v=0kwy-4jtcZo)
+[![The amazing Stitch. #ai #design](https://ytcards.demolab.com/?id=thQjLPH-bjg&title=The+amazing+Stitch.+%23ai+%23design&lang=en&timestamp=1774192163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The amazing Stitch. #ai #design")](https://www.youtube.com/shorts/thQjLPH-bjg)
+[![Have you used Google Stitch? #design](https://ytcards.demolab.com/?id=4dhWRLI2_Ks&title=Have+you+used+Google+Stitch%3F+%23design&lang=en&timestamp=1774041721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Have you used Google Stitch? #design")](https://www.youtube.com/shorts/4dhWRLI2_Ks)
+[![Instant Prototype #ai #coding](https://ytcards.demolab.com/?id=xBWMnAxAl_Y&title=Instant+Prototype+%23ai+%23coding&lang=en&timestamp=1773995837&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Instant Prototype #ai #coding")](https://www.youtube.com/shorts/xBWMnAxAl_Y)
+[![I Tested Cursor's New Model Composer 2](https://ytcards.demolab.com/?id=OlGvHQzSHl0&title=I+Tested+Cursor%27s+New+Model+Composer+2&lang=en&timestamp=1773961521&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested Cursor's New Model Composer 2")](https://www.youtube.com/watch?v=OlGvHQzSHl0)
 <!-- END YOUTUBE-CARDS -->
 
 #
