@@ -22,12 +22,12 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Anthropic Leaked Their Own AI Model #claudemythos #anthropic #anthropicleak #claudeai](https://ytcards.demolab.com/?id=aZX-RXmPLEU&title=Anthropic+Leaked+Their+Own+AI+Model+%23claudemythos+%23anthropic+%23anthropicleak+%23claudeai&lang=en&timestamp=1774643546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Anthropic Leaked Their Own AI Model #claudemythos #anthropic #anthropicleak #claudeai")](https://www.youtube.com/shorts/aZX-RXmPLEU)
 [![NEW Figma Agent is here. #design](https://ytcards.demolab.com/?id=TQJ81aRRLhc&title=NEW+Figma+Agent+is+here.+%23design&lang=en&timestamp=1774418715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NEW Figma Agent is here. #design")](https://www.youtube.com/shorts/TQJ81aRRLhc)
 [![I Tested NEW Figma Agent with Claude Code 🤯](https://ytcards.demolab.com/?id=hr0F5o0sNQQ&title=I+Tested+NEW+Figma+Agent+with+Claude+Code+%F0%9F%A4%AF&lang=en&timestamp=1774389612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested NEW Figma Agent with Claude Code 🤯")](https://www.youtube.com/watch?v=hr0F5o0sNQQ)
 [![What a fail 😞 Stitch vs Figma #figma](https://ytcards.demolab.com/?id=WXOrAr5flcU&title=What+a+fail+%F0%9F%98%9E+Stitch+vs+Figma+%23figma&lang=en&timestamp=1774270911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What a fail 😞 Stitch vs Figma #figma")](https://www.youtube.com/shorts/WXOrAr5flcU)
 [![Stitch vs Figma: Build and Deploy Test](https://ytcards.demolab.com/?id=0kwy-4jtcZo&title=Stitch+vs+Figma%3A+Build+and+Deploy+Test&lang=en&timestamp=1774213167&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stitch vs Figma: Build and Deploy Test")](https://www.youtube.com/watch?v=0kwy-4jtcZo)
 [![The amazing Stitch. #ai #design](https://ytcards.demolab.com/?id=thQjLPH-bjg&title=The+amazing+Stitch.+%23ai+%23design&lang=en&timestamp=1774192163&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The amazing Stitch. #ai #design")](https://www.youtube.com/shorts/thQjLPH-bjg)
-[![Have you used Google Stitch? #design](https://ytcards.demolab.com/?id=4dhWRLI2_Ks&title=Have+you+used+Google+Stitch%3F+%23design&lang=en&timestamp=1774041721&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Have you used Google Stitch? #design")](https://www.youtube.com/shorts/4dhWRLI2_Ks)
 <!-- END YOUTUBE-CARDS -->
 
 #
