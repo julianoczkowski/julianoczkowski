@@ -22,12 +22,7 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Claude Code Tutorial #claudecode #ai #design](https://ytcards.demolab.com/?id=SvIBCxG33To&title=Claude+Code+Tutorial+%23claudecode+%23ai+%23design&lang=en&timestamp=1774975115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code Tutorial #claudecode #ai #design")](https://www.youtube.com/shorts/SvIBCxG33To)
-[![Claude Code Skills for Designers](https://ytcards.demolab.com/?id=1pV7bvbaCFg&title=Claude+Code+Skills+for+Designers&lang=en&timestamp=1774790340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code Skills for Designers")](https://www.youtube.com/watch?v=1pV7bvbaCFg)
-[![Anthropic Leaked Their Own AI Model #claudemythos #anthropic #anthropicleak #claudeai](https://ytcards.demolab.com/?id=aZX-RXmPLEU&title=Anthropic+Leaked+Their+Own+AI+Model+%23claudemythos+%23anthropic+%23anthropicleak+%23claudeai&lang=en&timestamp=1774643546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Anthropic Leaked Their Own AI Model #claudemythos #anthropic #anthropicleak #claudeai")](https://www.youtube.com/shorts/aZX-RXmPLEU)
-[![NEW Figma Agent is here. #design](https://ytcards.demolab.com/?id=TQJ81aRRLhc&title=NEW+Figma+Agent+is+here.+%23design&lang=en&timestamp=1774418715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NEW Figma Agent is here. #design")](https://www.youtube.com/shorts/TQJ81aRRLhc)
-[![I Tested NEW Figma Agent with Claude Code 🤯](https://ytcards.demolab.com/?id=hr0F5o0sNQQ&title=I+Tested+NEW+Figma+Agent+with+Claude+Code+%F0%9F%A4%AF&lang=en&timestamp=1774389612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested NEW Figma Agent with Claude Code 🤯")](https://www.youtube.com/watch?v=hr0F5o0sNQQ)
-[![What a fail 😞 Stitch vs Figma #figma](https://ytcards.demolab.com/?id=WXOrAr5flcU&title=What+a+fail+%F0%9F%98%9E+Stitch+vs+Figma+%23figma&lang=en&timestamp=1774270911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What a fail 😞 Stitch vs Figma #figma")](https://www.youtube.com/shorts/WXOrAr5flcU)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
