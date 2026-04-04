@@ -22,12 +22,12 @@
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![I Tested Cursor 3](https://ytcards.demolab.com/?id=AAGmJAvec9o&title=I+Tested+Cursor+3&lang=en&timestamp=1775327634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested Cursor 3")](https://www.youtube.com/watch?v=AAGmJAvec9o)
 [![Front-End Design with Cloud Code #shorts](https://ytcards.demolab.com/?id=Np8b2tH_MMo&title=Front-End+Design+with+Cloud+Code+%23shorts&lang=en&timestamp=1775066438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Front-End Design with Cloud Code #shorts")](https://www.youtube.com/shorts/Np8b2tH_MMo)
 [![Buddy in Claude Code #claudecode  #ai](https://ytcards.demolab.com/?id=1JBrb3ho75o&title=Buddy+in+Claude+Code+%23claudecode++%23ai&lang=en&timestamp=1775030337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Buddy in Claude Code #claudecode  #ai")](https://www.youtube.com/shorts/1JBrb3ho75o)
 [![Claude Code Tutorial #claudecode #ai #design](https://ytcards.demolab.com/?id=SvIBCxG33To&title=Claude+Code+Tutorial+%23claudecode+%23ai+%23design&lang=en&timestamp=1774975115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code Tutorial #claudecode #ai #design")](https://www.youtube.com/shorts/SvIBCxG33To)
 [![Claude Code Skills for Designers](https://ytcards.demolab.com/?id=1pV7bvbaCFg&title=Claude+Code+Skills+for+Designers&lang=en&timestamp=1774790340&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code Skills for Designers")](https://www.youtube.com/watch?v=1pV7bvbaCFg)
 [![Anthropic Leaked Their Own AI Model #claudemythos #anthropic #anthropicleak #claudeai](https://ytcards.demolab.com/?id=aZX-RXmPLEU&title=Anthropic+Leaked+Their+Own+AI+Model+%23claudemythos+%23anthropic+%23anthropicleak+%23claudeai&lang=en&timestamp=1774643546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Anthropic Leaked Their Own AI Model #claudemythos #anthropic #anthropicleak #claudeai")](https://www.youtube.com/shorts/aZX-RXmPLEU)
-[![NEW Figma Agent is here. #design](https://ytcards.demolab.com/?id=TQJ81aRRLhc&title=NEW+Figma+Agent+is+here.+%23design&lang=en&timestamp=1774418715&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NEW Figma Agent is here. #design")](https://www.youtube.com/shorts/TQJ81aRRLhc)
 <!-- END YOUTUBE-CARDS -->
 
 #
