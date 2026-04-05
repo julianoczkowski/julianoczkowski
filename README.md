@@ -1,13 +1,14 @@
-# Hey, I’m Julian
+# Hey, I'm Julian
 
-**`Lead Product Designer bridging UX & Code`**
+**`AI-Native Designer | Building open-source AI tools for designers`**
 
+🛠️ **Builder** — Created [designer-skills](https://github.com/julianoczkowski/designer-skills), 
+an open-source skill set for design process.  
 👨‍💻 **Contributor** — 2,000+ commits in the past year across design-to-code tools and UI frameworks.  
-🚀 **Builder** — Created AI-driven workflows that turn Figma layouts into working code with shadcn/ui + Storybook.  
-🧩 **Design Systems Guy** — Experienced in UX, scalable design tokens, and component libraries.  
-🌍 **Cross-Disciplinary** — Bridging UX & Code to ship fast, user-centered digital products.
+🧩 **Design Systems** — UX, scalable design tokens, and component libraries.  
+🎥 **YouTube** — Weekly AI tool tests and comparisons at [AI For Work](https://www.youtube.com/@aiforwork_app).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://www.youtube.com/@aiforwork_app) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:julianreddot@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23121011.svg?style=for-the-badge)](https://linkedin.com/in/julianoczkowski) [![YouTube](https://img.shields.io/badge/YouTube-%23121011.svg?style=for-the-badge)](https://www.youtube.com/@aiforwork_app) [![email](https://img.shields.io/badge/Email-%23121011.svg?style=for-the-badge)](mailto:hello@julianoczkowski.com)
 
 #
 
@@ -36,7 +37,7 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Codding Tools
+### Coding Tools
 
 ![Cursor](https://img.shields.io/badge/Cursor-%23121011.svg?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/vscode-%23121011.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -73,4 +74,4 @@
 #
 
 [website]: https://www.julianoczkowski.com
-[youtube]: https://youtube.com/@jules-ai-lab
+[youtube]: https://youtube.com/@aiforwork_app
