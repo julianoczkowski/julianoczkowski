@@ -3,7 +3,7 @@
 **`AI-Native Designer | Building open-source AI tools for designers`**
 
 🛠️ **Builder** — Created [designer-skills](https://github.com/julianoczkowski/designer-skills), 
-an open-source skill set for design process.  
+an open-source skill set for the design process.  
 👨‍💻 **Contributor** — 2,000+ commits in the past year across design-to-code tools and UI frameworks.  
 🧩 **Design Systems** — UX, scalable design tokens, and component libraries.  
 🎥 **YouTube** — Weekly AI tool tests and comparisons at [AI For Work](https://www.youtube.com/@aiforwork_app).
