@@ -23,7 +23,12 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Build Your Second Brain With Claude Code, Karpathy’s Method](https://ytcards.demolab.com/?id=lnsExa1UbnM&title=Build+Your+Second+Brain+With+Claude+Code%2C+Karpathy%E2%80%99s+Method&lang=en&timestamp=1775498864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Build Your Second Brain With Claude Code, Karpathy’s Method")](https://www.youtube.com/watch?v=lnsExa1UbnM)
+[![Cursor 3 Tested #cursor #ai #design](https://ytcards.demolab.com/?id=y0ramNmWAcc&title=Cursor+3+Tested+%23cursor+%23ai+%23design&lang=en&timestamp=1775337148&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cursor 3 Tested #cursor #ai #design")](https://www.youtube.com/shorts/y0ramNmWAcc)
+[![Cursor 3 is Not What You Think](https://ytcards.demolab.com/?id=AAGmJAvec9o&title=Cursor+3+is+Not+What+You+Think&lang=en&timestamp=1775327634&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cursor 3 is Not What You Think")](https://www.youtube.com/watch?v=AAGmJAvec9o)
+[![Front-End Design with Cloud Code #shorts](https://ytcards.demolab.com/?id=Np8b2tH_MMo&title=Front-End+Design+with+Cloud+Code+%23shorts&lang=en&timestamp=1775066438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Front-End Design with Cloud Code #shorts")](https://www.youtube.com/shorts/Np8b2tH_MMo)
+[![Buddy in Claude Code #claudecode  #ai](https://ytcards.demolab.com/?id=1JBrb3ho75o&title=Buddy+in+Claude+Code+%23claudecode++%23ai&lang=en&timestamp=1775030337&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Buddy in Claude Code #claudecode  #ai")](https://www.youtube.com/shorts/1JBrb3ho75o)
+[![Claude Code Tutorial #claudecode #ai #design](https://ytcards.demolab.com/?id=SvIBCxG33To&title=Claude+Code+Tutorial+%23claudecode+%23ai+%23design&lang=en&timestamp=1774975115&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code Tutorial #claudecode #ai #design")](https://www.youtube.com/shorts/SvIBCxG33To)
 <!-- END YOUTUBE-CARDS -->
 
 #
