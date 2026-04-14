@@ -23,7 +23,12 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Claude Code Just Killed OpenClaw](https://ytcards.demolab.com/?id=yqyikWxum-8&title=Claude+Code+Just+Killed+OpenClaw&lang=en&timestamp=1776197195&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code Just Killed OpenClaw")](https://www.youtube.com/watch?v=yqyikWxum-8)
+[![Second Brain With Claude Code, Karpathy’s Method #claudecode #obsidian](https://ytcards.demolab.com/?id=0WpytVLbiuw&title=Second+Brain+With+Claude+Code%2C+Karpathy%E2%80%99s+Method+%23claudecode+%23obsidian&lang=en&timestamp=1775670062&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Second Brain With Claude Code, Karpathy’s Method #claudecode #obsidian")](https://www.youtube.com/shorts/0WpytVLbiuw)
+[![Anthropic Mythos - No Software Is Safe Now #mythos #anthropic  #ai](https://ytcards.demolab.com/?id=VGpxc8dNLZE&title=Anthropic+Mythos+-+No+Software+Is+Safe+Now+%23mythos+%23anthropic++%23ai&lang=en&timestamp=1775594221&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Anthropic Mythos - No Software Is Safe Now #mythos #anthropic  #ai")](https://www.youtube.com/shorts/VGpxc8dNLZE)
+[![Claude Mythos: No Software Is Safe](https://ytcards.demolab.com/?id=iIW_bLKgGu0&title=Claude+Mythos%3A+No+Software+Is+Safe&lang=en&timestamp=1775592423&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Mythos: No Software Is Safe")](https://www.youtube.com/watch?v=iIW_bLKgGu0)
+[![Build Your Second Brain With Claude Code, Karpathy’s Method](https://ytcards.demolab.com/?id=lnsExa1UbnM&title=Build+Your+Second+Brain+With+Claude+Code%2C+Karpathy%E2%80%99s+Method&lang=en&timestamp=1775498864&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Build Your Second Brain With Claude Code, Karpathy’s Method")](https://www.youtube.com/watch?v=lnsExa1UbnM)
+[![Cursor 3 Tested #cursor #ai #design](https://ytcards.demolab.com/?id=y0ramNmWAcc&title=Cursor+3+Tested+%23cursor+%23ai+%23design&lang=en&timestamp=1775337148&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cursor 3 Tested #cursor #ai #design")](https://www.youtube.com/shorts/y0ramNmWAcc)
 <!-- END YOUTUBE-CARDS -->
 
 #
