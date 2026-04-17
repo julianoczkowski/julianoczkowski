@@ -23,12 +23,7 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Claude Design Is Actually Insane](https://ytcards.demolab.com/?id=4q2F4zblOLQ&title=Claude+Design+Is+Actually+Insane&lang=en&timestamp=1776453648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Design Is Actually Insane")](https://www.youtube.com/watch?v=4q2F4zblOLQ)
-[![New OpenAI Codex Is Actually Wild  #ai #openai](https://ytcards.demolab.com/?id=Auu44cRSnnw&title=New+OpenAI+Codex+Is+Actually+Wild++%23ai+%23openai&lang=en&timestamp=1776412450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "New OpenAI Codex Is Actually Wild  #ai #openai")](https://www.youtube.com/shorts/Auu44cRSnnw)
-[![Claude Opus 4.7 vs 4.6 #shorts  #claudecode](https://ytcards.demolab.com/?id=Dnt-mH8xkbs&title=Claude+Opus+4.7+vs+4.6+%23shorts++%23claudecode&lang=en&timestamp=1776411306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Opus 4.7 vs 4.6 #shorts  #claudecode")](https://www.youtube.com/shorts/Dnt-mH8xkbs)
-[![OpenAI Codex Blew My Mind](https://ytcards.demolab.com/?id=m0w9CnTXyRs&title=OpenAI+Codex+Blew+My+Mind&lang=en&timestamp=1776370460&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OpenAI Codex Blew My Mind")](https://www.youtube.com/watch?v=m0w9CnTXyRs)
-[![🔥 I Tested Opus 4.7 vs 4.6](https://ytcards.demolab.com/?id=NQsZZPka5bs&title=%F0%9F%94%A5+I+Tested+Opus+4.7+vs+4.6&lang=en&timestamp=1776361543&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🔥 I Tested Opus 4.7 vs 4.6")](https://www.youtube.com/watch?v=NQsZZPka5bs)
-[![Claude Code Works While You Sleep](https://ytcards.demolab.com/?id=yqyikWxum-8&title=Claude+Code+Works+While+You+Sleep&lang=en&timestamp=1776197195&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code Works While You Sleep")](https://www.youtube.com/watch?v=yqyikWxum-8)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
