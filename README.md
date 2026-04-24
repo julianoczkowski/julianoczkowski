@@ -23,12 +23,12 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![GPT 5.5 vs Opus 4.7. I tested both. #GPT55 #ClaudeOpus47](https://ytcards.demolab.com/?id=XvVwP_m1zPQ&title=GPT+5.5+vs+Opus+4.7.+I+tested+both.+%23GPT55+%23ClaudeOpus47&lang=en&timestamp=1777021200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GPT 5.5 vs Opus 4.7. I tested both. #GPT55 #ClaudeOpus47")](https://www.youtube.com/shorts/XvVwP_m1zPQ)
 [![I Tested GPT 5.5 vs Claude Opus 4.7](https://ytcards.demolab.com/?id=KLT9OTpXHbE&title=I+Tested+GPT+5.5+vs+Claude+Opus+4.7&lang=en&timestamp=1776979104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested GPT 5.5 vs Claude Opus 4.7")](https://www.youtube.com/watch?v=KLT9OTpXHbE)
 [![Opus 4.7 did this, 4.6 didn't](https://ytcards.demolab.com/?id=g-rRfCawt4A&title=Opus+4.7+did+this%2C+4.6+didn%27t&lang=en&timestamp=1776603600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Opus 4.7 did this, 4.6 didn't")](https://www.youtube.com/shorts/g-rRfCawt4A)
 [![Claude Design built this in one prompt](https://ytcards.demolab.com/?id=kplO6fA9FTQ&title=Claude+Design+built+this+in+one+prompt&lang=en&timestamp=1776517200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Design built this in one prompt")](https://www.youtube.com/shorts/kplO6fA9FTQ)
 [![Claude Design Is Actually Insane](https://ytcards.demolab.com/?id=4q2F4zblOLQ&title=Claude+Design+Is+Actually+Insane&lang=en&timestamp=1776453648&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Design Is Actually Insane")](https://www.youtube.com/watch?v=4q2F4zblOLQ)
 [![New OpenAI Codex Is Actually Wild  #ai #openai](https://ytcards.demolab.com/?id=Auu44cRSnnw&title=New+OpenAI+Codex+Is+Actually+Wild++%23ai+%23openai&lang=en&timestamp=1776412450&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "New OpenAI Codex Is Actually Wild  #ai #openai")](https://www.youtube.com/shorts/Auu44cRSnnw)
-[![Claude Opus 4.7 vs 4.6 #shorts  #claudecode](https://ytcards.demolab.com/?id=Dnt-mH8xkbs&title=Claude+Opus+4.7+vs+4.6+%23shorts++%23claudecode&lang=en&timestamp=1776411306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Opus 4.7 vs 4.6 #shorts  #claudecode")](https://www.youtube.com/shorts/Dnt-mH8xkbs)
 <!-- END YOUTUBE-CARDS -->
 
 #
