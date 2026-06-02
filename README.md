@@ -41,10 +41,6 @@ an open-source skill set for the design process.
 
 #
 
-### Design Tools
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 ### Coding Tools
 
 ![Cursor](https://img.shields.io/badge/Cursor-%23121011.svg?style=for-the-badge)
