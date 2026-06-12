@@ -23,12 +23,12 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Fable 5 Killed My Figma Subscription](https://ytcards.demolab.com/?id=3SRHDLq-FYI&title=Fable+5+Killed+My+Figma+Subscription&lang=en&timestamp=1781265356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Fable 5 Killed My Figma Subscription")](https://www.youtube.com/watch?v=3SRHDLq-FYI)
 [![I Tested Claude Fable 5. 4 Wild Tests 🤯 Mythos-class model.](https://ytcards.demolab.com/?id=cirrJh9xXSk&title=I+Tested+Claude+Fable+5.+4+Wild+Tests+%F0%9F%A4%AF+Mythos-class+model.&lang=en&timestamp=1781038155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested Claude Fable 5. 4 Wild Tests 🤯 Mythos-class model.")](https://www.youtube.com/watch?v=cirrJh9xXSk)
 [![Codex Just Solved Product Design](https://ytcards.demolab.com/?id=O3D7yn7gCy0&title=Codex+Just+Solved+Product+Design&lang=en&timestamp=1780681818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Codex Just Solved Product Design")](https://www.youtube.com/watch?v=O3D7yn7gCy0)
 [![Claude Code Design Process](https://ytcards.demolab.com/?id=Wwvxa3mth-E&title=Claude+Code+Design+Process&lang=en&timestamp=1777313108&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Code Design Process")](https://www.youtube.com/shorts/Wwvxa3mth-E)
 [![GPT 5.5 vs Opus 4.7. I tested both. #GPT55 #ClaudeOpus47](https://ytcards.demolab.com/?id=XvVwP_m1zPQ&title=GPT+5.5+vs+Opus+4.7.+I+tested+both.+%23GPT55+%23ClaudeOpus47&lang=en&timestamp=1777021200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GPT 5.5 vs Opus 4.7. I tested both. #GPT55 #ClaudeOpus47")](https://www.youtube.com/shorts/XvVwP_m1zPQ)
 [![I Tested GPT 5.5 vs Claude Opus 4.7](https://ytcards.demolab.com/?id=KLT9OTpXHbE&title=I+Tested+GPT+5.5+vs+Claude+Opus+4.7&lang=en&timestamp=1776979104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested GPT 5.5 vs Claude Opus 4.7")](https://www.youtube.com/watch?v=KLT9OTpXHbE)
-[![Opus 4.7 did this, 4.6 didn't](https://ytcards.demolab.com/?id=g-rRfCawt4A&title=Opus+4.7+did+this%2C+4.6+didn%27t&lang=en&timestamp=1776603600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Opus 4.7 did this, 4.6 didn't")](https://www.youtube.com/shorts/g-rRfCawt4A)
 <!-- END YOUTUBE-CARDS -->
 
 #
