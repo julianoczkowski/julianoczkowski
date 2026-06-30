@@ -23,7 +23,12 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![US Gov Pulled Anthropic's Mythos 5... Then Cleared 100 Orgs 🚨 #Shorts](https://ytcards.demolab.com/?id=bWdSI-KEtu8&title=US+Gov+Pulled+Anthropic%27s+Mythos+5...+Then+Cleared+100+Orgs+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1782741766&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "US Gov Pulled Anthropic's Mythos 5... Then Cleared 100 Orgs 🚨 #Shorts")](https://www.youtube.com/shorts/bWdSI-KEtu8)
+[![Figma Code Layers: Design Becomes CODE in 1 Click 🎨 #Shorts](https://ytcards.demolab.com/?id=BuN50qpuGK0&title=Figma+Code+Layers%3A+Design+Becomes+CODE+in+1+Click+%F0%9F%8E%A8+%23Shorts&lang=en&timestamp=1782657621&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Figma Code Layers: Design Becomes CODE in 1 Click 🎨 #Shorts")](https://www.youtube.com/shorts/BuN50qpuGK0)
+[![OpenAI Previewed GPT-5.6… Then LIMITED It 🚨 #Shorts](https://ytcards.demolab.com/?id=lCiZh0T5lWY&title=OpenAI+Previewed+GPT-5.6%E2%80%A6+Then+LIMITED+It+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1782574592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OpenAI Previewed GPT-5.6… Then LIMITED It 🚨 #Shorts")](https://www.youtube.com/shorts/lCiZh0T5lWY)
+[![Claude Fable 5 Killed My Figma Subscription](https://ytcards.demolab.com/?id=3SRHDLq-FYI&title=Claude+Fable+5+Killed+My+Figma+Subscription&lang=en&timestamp=1781265356&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Fable 5 Killed My Figma Subscription")](https://www.youtube.com/watch?v=3SRHDLq-FYI)
+[![I Tested Claude Fable 5. 4 Wild Tests 🤯 Mythos-class model.](https://ytcards.demolab.com/?id=cirrJh9xXSk&title=I+Tested+Claude+Fable+5.+4+Wild+Tests+%F0%9F%A4%AF+Mythos-class+model.&lang=en&timestamp=1781038155&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested Claude Fable 5. 4 Wild Tests 🤯 Mythos-class model.")](https://www.youtube.com/watch?v=cirrJh9xXSk)
+[![Codex Just Solved Product Design](https://ytcards.demolab.com/?id=O3D7yn7gCy0&title=Codex+Just+Solved+Product+Design&lang=en&timestamp=1780681818&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Codex Just Solved Product Design")](https://www.youtube.com/watch?v=O3D7yn7gCy0)
 <!-- END YOUTUBE-CARDS -->
 
 #
