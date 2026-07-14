@@ -23,7 +23,12 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Apple SUES OpenAI for Trade Secret Theft 🚨 #Shorts](https://ytcards.demolab.com/?id=bWO_WgPcI3U&title=Apple+SUES+OpenAI+for+Trade+Secret+Theft+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1783757533&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Apple SUES OpenAI for Trade Secret Theft 🚨 #Shorts")](https://www.youtube.com/shorts/bWO_WgPcI3U)
+[![I Gave GPT-5.6 Sol 8 Build Tests 🤯 #Shorts](https://ytcards.demolab.com/?id=NePvSbOVGXg&title=I+Gave+GPT-5.6+Sol+8+Build+Tests+%F0%9F%A4%AF+%23Shorts&lang=en&timestamp=1783665946&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Gave GPT-5.6 Sol 8 Build Tests 🤯 #Shorts")](https://www.youtube.com/shorts/NePvSbOVGXg)
+[![I Tested GPT 5.6 Sol 🤯 8 Tests](https://ytcards.demolab.com/?id=WzHEP1zGFxQ&title=I+Tested+GPT+5.6+Sol+%F0%9F%A4%AF+8+Tests&lang=en&timestamp=1783625782&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "I Tested GPT 5.6 Sol 🤯 8 Tests")](https://www.youtube.com/watch?v=WzHEP1zGFxQ)
+[![ChatGPT Can Now Do Your Work For Hours 🤖 #Shorts](https://ytcards.demolab.com/?id=4f0Q_40p8Wo&title=ChatGPT+Can+Now+Do+Your+Work+For+Hours+%F0%9F%A4%96+%23Shorts&lang=en&timestamp=1783617733&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ChatGPT Can Now Do Your Work For Hours 🤖 #Shorts")](https://www.youtube.com/shorts/4f0Q_40p8Wo)
+[![Grok 4.5 Is An Opus-Class Model For Half The Price 🚀 #Shorts](https://ytcards.demolab.com/?id=my8CqClSJe4&title=Grok+4.5+Is+An+Opus-Class+Model+For+Half+The+Price+%F0%9F%9A%80+%23Shorts&lang=en&timestamp=1783572295&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Grok 4.5 Is An Opus-Class Model For Half The Price 🚀 #Shorts")](https://www.youtube.com/shorts/my8CqClSJe4)
+[![Claude Cowork Hits Your Phone 📱 #Shorts](https://ytcards.demolab.com/?id=SW23gyeLxdA&title=Claude+Cowork+Hits+Your+Phone+%F0%9F%93%B1+%23Shorts&lang=en&timestamp=1783535081&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Cowork Hits Your Phone 📱 #Shorts")](https://www.youtube.com/shorts/SW23gyeLxdA)
 <!-- END YOUTUBE-CARDS -->
 
 #
