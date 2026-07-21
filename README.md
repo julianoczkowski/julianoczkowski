@@ -23,7 +23,12 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![GPT-5.6 Found a $500K WordPress Bug for $25 🚨 #Shorts](https://ytcards.demolab.com/?id=ddIR1v7wXVU&title=GPT-5.6+Found+a+%24500K+WordPress+Bug+for+%2425+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1784573214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GPT-5.6 Found a $500K WordPress Bug for $25 🚨 #Shorts")](https://www.youtube.com/shorts/ddIR1v7wXVU)
+[![18 Claude Skills Every PM Needs](https://ytcards.demolab.com/?id=Y1BMaQJCK0Y&title=18+Claude+Skills+Every+PM+Needs&lang=en&timestamp=1784490629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "18 Claude Skills Every PM Needs")](https://www.youtube.com/watch?v=Y1BMaQJCK0Y)
+[![Mira Murati's Lab Just Gave Away a 975B AI Model 🤯 #Shorts](https://ytcards.demolab.com/?id=WVqHIc8mZgg&title=Mira+Murati%27s+Lab+Just+Gave+Away+a+975B+AI+Model+%F0%9F%A4%AF+%23Shorts&lang=en&timestamp=1784470270&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mira Murati's Lab Just Gave Away a 975B AI Model 🤯 #Shorts")](https://www.youtube.com/shorts/WVqHIc8mZgg)
+[![Claude Fable 5 Is PERMANENT, Now In Max Plans 🤯 #Shorts](https://ytcards.demolab.com/?id=vy7ejTa26SY&title=Claude+Fable+5+Is+PERMANENT%2C+Now+In+Max+Plans+%F0%9F%A4%AF+%23Shorts&lang=en&timestamp=1784382566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Fable 5 Is PERMANENT, Now In Max Plans 🤯 #Shorts")](https://www.youtube.com/shorts/vy7ejTa26SY)
+[![Kimi K3 Beats Claude Opus 4.8, and You Can Download It 🤯 #Shorts](https://ytcards.demolab.com/?id=kDPcqwn5VTU&title=Kimi+K3+Beats+Claude+Opus+4.8%2C+and+You+Can+Download+It+%F0%9F%A4%AF+%23Shorts&lang=en&timestamp=1784284234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kimi K3 Beats Claude Opus 4.8, and You Can Download It 🤯 #Shorts")](https://www.youtube.com/shorts/kDPcqwn5VTU)
+[![Lovable Apps Now Work Inside ChatGPT and Claude 🤯 #Shorts](https://ytcards.demolab.com/?id=ZwJJQYO-gyw&title=Lovable+Apps+Now+Work+Inside+ChatGPT+and+Claude+%F0%9F%A4%AF+%23Shorts&lang=en&timestamp=1784196453&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Lovable Apps Now Work Inside ChatGPT and Claude 🤯 #Shorts")](https://www.youtube.com/shorts/ZwJJQYO-gyw)
 <!-- END YOUTUBE-CARDS -->
 
 #
