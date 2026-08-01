@@ -23,12 +23,7 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![GPT-5.6 Luna Just Got 80% CHEAPER 🚨 #Shorts](https://ytcards.demolab.com/?id=cNhAPc2TgwU&title=GPT-5.6+Luna+Just+Got+80%25+CHEAPER+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1785512852&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GPT-5.6 Luna Just Got 80% CHEAPER 🚨 #Shorts")](https://www.youtube.com/shorts/cNhAPc2TgwU)
-[![An OpenAI Model Hacked Hugging Face To Cheat On A Test 🚨 #Shorts](https://ytcards.demolab.com/?id=QRbbUlANplo&title=An+OpenAI+Model+Hacked+Hugging+Face+To+Cheat+On+A+Test+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1785395813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "An OpenAI Model Hacked Hugging Face To Cheat On A Test 🚨 #Shorts")](https://www.youtube.com/shorts/QRbbUlANplo)
-[![Claude Just Cracked Post-Quantum Crypto On Its Own 🤯 #Shorts](https://ytcards.demolab.com/?id=e0fPxHcAXic&title=Claude+Just+Cracked+Post-Quantum+Crypto+On+Its+Own+%F0%9F%A4%AF+%23Shorts&lang=en&timestamp=1785335056&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Claude Just Cracked Post-Quantum Crypto On Its Own 🤯 #Shorts")](https://www.youtube.com/shorts/e0fPxHcAXic)
-[![Your Shared Claude Chats Were Showing Up On Google 🚨 #Shorts](https://ytcards.demolab.com/?id=FLDhoJ-CJ3g&title=Your+Shared+Claude+Chats+Were+Showing+Up+On+Google+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1785239500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Your Shared Claude Chats Were Showing Up On Google 🚨 #Shorts")](https://www.youtube.com/shorts/FLDhoJ-CJ3g)
-[![Kimi K3 Open Weights Are Here, and You Cannot Run Them 🤯 #Shorts](https://ytcards.demolab.com/?id=md2pqU2Roe0&title=Kimi+K3+Open+Weights+Are+Here%2C+and+You+Cannot+Run+Them+%F0%9F%A4%AF+%23Shorts&lang=en&timestamp=1785133223&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kimi K3 Open Weights Are Here, and You Cannot Run Them 🤯 #Shorts")](https://www.youtube.com/shorts/md2pqU2Roe0)
-[![Anthropic Deleted 80% of Claude Code's System Prompt 🤯 #shorts](https://ytcards.demolab.com/?id=lmgGAEPrAmM&title=Anthropic+Deleted+80%25+of+Claude+Code%27s+System+Prompt+%F0%9F%A4%AF+%23shorts&lang=en&timestamp=1785005262&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Anthropic Deleted 80% of Claude Code's System Prompt 🤯 #shorts")](https://www.youtube.com/shorts/lmgGAEPrAmM)
+
 <!-- END YOUTUBE-CARDS -->
 
 #
