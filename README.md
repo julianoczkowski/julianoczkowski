@@ -23,7 +23,12 @@ an open-source skill set for the design process.
    </p>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![OpenAI Wants California's AI Safety Law Made TOUGHER 🚨 #Shorts](https://ytcards.demolab.com/?id=4JvrHS7V9rs&title=OpenAI+Wants+California%27s+AI+Safety+Law+Made+TOUGHER+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1787496087&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OpenAI Wants California's AI Safety Law Made TOUGHER 🚨 #Shorts")](https://www.youtube.com/shorts/4JvrHS7V9rs)
+[![ChatGPT Can Now Read And Send Your Texts On Mac 🚨 #Shorts](https://ytcards.demolab.com/?id=hN1mRA-Cwtc&title=ChatGPT+Can+Now+Read+And+Send+Your+Texts+On+Mac+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1787323694&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ChatGPT Can Now Read And Send Your Texts On Mac 🚨 #Shorts")](https://www.youtube.com/shorts/hN1mRA-Cwtc)
+[![OpenAI Will Flag Your API Prompts Without Storing Them 🤯 #Shorts](https://ytcards.demolab.com/?id=xoFG72xj_5g&title=OpenAI+Will+Flag+Your+API+Prompts+Without+Storing+Them+%F0%9F%A4%AF+%23Shorts&lang=en&timestamp=1787245468&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OpenAI Will Flag Your API Prompts Without Storing Them 🤯 #Shorts")](https://www.youtube.com/shorts/xoFG72xj_5g)
+[![ChatGPT Can Now Decide You Are A Teenager 🚨 #shorts](https://ytcards.demolab.com/?id=JQHU7KAWxhk&title=ChatGPT+Can+Now+Decide+You+Are+A+Teenager+%F0%9F%9A%A8+%23shorts&lang=en&timestamp=1787073301&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ChatGPT Can Now Decide You Are A Teenager 🚨 #shorts")](https://www.youtube.com/shorts/JQHU7KAWxhk)
+[![ChatGPT Now Logs Every Click And Keystroke On Your Mac 🚨 #Shorts](https://ytcards.demolab.com/?id=6b6T0BCjGxw&title=ChatGPT+Now+Logs+Every+Click+And+Keystroke+On+Your+Mac+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1786997585&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ChatGPT Now Logs Every Click And Keystroke On Your Mac 🚨 #Shorts")](https://www.youtube.com/shorts/6b6T0BCjGxw)
+[![OpenAI Ultrafast Runs GPT-5.6 Sol 14x FASTER 🚨 #Shorts](https://ytcards.demolab.com/?id=8GEsjzEwfxY&title=OpenAI+Ultrafast+Runs+GPT-5.6+Sol+14x+FASTER+%F0%9F%9A%A8+%23Shorts&lang=en&timestamp=1786914310&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OpenAI Ultrafast Runs GPT-5.6 Sol 14x FASTER 🚨 #Shorts")](https://www.youtube.com/shorts/8GEsjzEwfxY)
 <!-- END YOUTUBE-CARDS -->
 
 #
