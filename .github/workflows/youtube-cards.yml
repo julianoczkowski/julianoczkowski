@@ -17,3 +17,5 @@ jobs:
         with:
           channel_id: UCyINfm_N5v8OrxOxYlRfMwA
           max_videos: 6
+          # The public RSS feed 404s at times; the Data API is reliable
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
