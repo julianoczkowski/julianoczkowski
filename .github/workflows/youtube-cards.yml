@@ -19,3 +19,36 @@ jobs:
           max_videos: 6
           # The public RSS feed 404s at times; the Data API is reliable
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+
+      # shields.io retired its YouTube badges, so write the counts in ourselves.
+      # Runs in the checkout the cards action left behind (already up to date).
+      - name: Update YouTube badge counts
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python3 - <<'EOF'
+          import json, os, re, urllib.request
+
+          CHANNEL = "UCyINfm_N5v8OrxOxYlRfMwA"
+          url = f"https://www.googleapis.com/youtube/v3/channels?part=statistics&id={CHANNEL}&key={os.environ['YOUTUBE_API_KEY']}"
+          stats = json.load(urllib.request.urlopen(url))["items"][0]["statistics"]
+
+          def short(n):
+              n = int(n)
+              for div, unit in ((1e6, "M"), (1e3, "k")):
+                  if n >= div:
+                      v = n / div
+                      return (f"{v:.0f}" if v >= 100 else f"{v:.1f}".rstrip("0").rstrip(".")) + unit
+              return str(n)
+
+          subs, views = short(stats["subscriberCount"]), short(stats["viewCount"])
+          s = open("README.md").read()
+          s = re.sub(r"badge/SUBSCRIBE-[^-?\"]+(?:--[^-?\"]+)*-E05D44", f"badge/SUBSCRIBE-{subs}-E05D44", s)
+          s = re.sub(r"badge/(?:WATCH|VIEWS)-[^-?\"]+(?:--[^-?\"]+)*-E1AD0E", f"badge/VIEWS-{views}-E1AD0E", s)
+          open("README.md", "w").write(s)
+          print(f"subscribers {subs}, views {views}")
+          EOF
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || { git commit -m "docs(readme): Update YouTube badge counts" && git push; }
