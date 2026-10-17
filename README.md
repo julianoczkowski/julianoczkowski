@@ -16,9 +16,9 @@ an open-source skill set for the design process.
 
    <p align="left">
       <a href="https://www.youtube.com/@aiforwork_app?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCyINfm_N5v8OrxOxYlRfMwA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="Subscribe on YouTube" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/SUBSCRIBE-@aiforwork__app-E05D44?style=for-the-badge&logo=video&logoColor=white&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@aiforwork_app">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCyINfm_N5v8OrxOxYlRfMwA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="Watch on YouTube" title="Watch my latest videos" src="https://custom-icon-badges.demolab.com/badge/WATCH-latest%20videos-E1AD0E?style=for-the-badge&logo=eye&logoColor=white&labelColor=C79600"/></a> 
       
    </p>
 
